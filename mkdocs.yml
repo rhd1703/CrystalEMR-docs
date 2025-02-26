@@ -1,0 +1,92 @@
+# Ref :https://www.youtube.com/watch?v=DeZjkCtttss
+site_name: Crystal EMR
+theme:
+  name: material
+  favicon: assets/images/favicon/favicon-16x16.png
+  logo: assets/images/favicon/android-chrome-512x512.png
+  
+         
+
+  
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: amber
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: blue grey
+      accent: deep orange
+
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+
+
+
+plugins:
+  - search
+  - tags
+
+
+
+nav:
+  - Home: index.md
+  - Knowledge Base:
+    - Start here: about.md
+  - Know your Crystal EMR:
+    - test: test.md
+    - test1: test1.md
+    - Info: info.md
+  - Tags: tags.md
+           
+
+
+
+
+
+extra:
+  version:
+    provider: rishabh
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/rhd1703
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<rhd1703@gmail.com>
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+
+copyright: Copyright &copy; 2025 Crystal EMR
