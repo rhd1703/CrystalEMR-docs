@@ -4,6 +4,8 @@ theme:
   name: material
   favicon: assets/images/favicon/favicon-16x16.png
   logo: assets/images/favicon/android-chrome-512x512.png
+  font:
+    text: Roboto  
   
          
 
@@ -33,6 +35,7 @@ theme:
     - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
+    - navigation.path    
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
@@ -42,27 +45,31 @@ theme:
     - search.highlight
     - search.share
     - navigation.footer
+    - content.tabs.link
 
 
 
 plugins:
   - search
   - tags
-
+  - mike:
+      # These fields are all optional; the defaults are as below...
+      alias_type: symlink
+      redirect_template: null
+      deploy_prefix: ''
+      canonical_version: null
+      version_selector: true
+      css_dir: css
+      javascript_dir: js
 
 
 nav:
   - Home: index.md
-  - Knowledge Base:
+  - about:
     - Start here: about.md
   - Training:
-    - Token Creation: Training/billing.md
+    - Token Creation: Training/tokens.md
     - TrueDocs: Training/truedocs.md
-   
-  - Know your Crystal EMR:
-    - test: test.md
-    - test1: test1.md
-    - Info: info.md
   - Tags: tags.md
            
 
@@ -72,7 +79,7 @@ nav:
 
 extra:
   version:
-    provider: rishabh
+    provider: mike
   generator: false
 
   social:
@@ -89,15 +96,28 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true  
   - toc:
       permalink: true
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption    
-
+  - pymdownx.blocks.caption 
+  - tables
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true  
+  # - pymdownx.tasklist:
+  #     clickable_checkbox: true      
 
 extra_css:
   - assets/css/extra.css
 
 
 copyright: Copyright &copy; 2025 Crystal EMR
+
+
