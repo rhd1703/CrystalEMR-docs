@@ -52,15 +52,15 @@ theme:
 plugins:
   - search
   - tags
-  - mike:
-      # These fields are all optional; the defaults are as below...
-      alias_type: symlink
-      redirect_template: null
-      deploy_prefix: ''
-      canonical_version: null
-      version_selector: true
-      css_dir: css
-      javascript_dir: js
+  # - mike:
+  #     # These fields are all optional; the defaults are as below...
+  #     alias_type: symlink
+  #     redirect_template: null
+  #     deploy_prefix: ''
+  #     canonical_version: null
+  #     version_selector: true
+  #     css_dir: css
+  #     javascript_dir: js
 
 
 nav:
@@ -87,6 +87,12 @@ extra:
       link: https://github.com/rhd1703
     - icon: fontawesome/solid/paper-plane
       link: mailto:<rhd1703@gmail.com>
+
+# Repository
+repo_name: rhd1703/CrystalEMR-docs
+repo_url: https://github.com/rhd1703/CrystalEMR-docs
+edit_uri: ""
+
 
 markdown_extensions:
   - attr_list
