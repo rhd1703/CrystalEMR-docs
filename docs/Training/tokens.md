@@ -4,7 +4,7 @@
 
 
 
-![token1]{ style="height: 520px" }
+![token1]{ style="height: 600px" }
 [token1]: ../assets/images/ppt_img/tokens_img/Tokens2.png
 
 ### page2
