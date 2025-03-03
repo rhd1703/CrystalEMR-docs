@@ -46,6 +46,7 @@ theme:
     - search.share
     - navigation.footer
     - content.tabs.link
+    - header.autohide
 
 
 
@@ -66,7 +67,7 @@ plugins:
 extra:
   version:
     provider: mike
-  # generator: false
+  generator: false
 
   social:
     - icon: fontawesome/brands/github 
@@ -125,6 +126,11 @@ nav:
     - Billing: Training/billing.md
     - Test1: Training/test1.md
     - Test2: Training/test2.md
-
+  -  Practice:
+      - Start: practice1/index.md
+      - About-us: practice1/about.md
+      - contact: practice1/contact.md
+      - faq: practice1/faq.md
+      - features: practice1/features.md
   - Tags: tags.md
            
