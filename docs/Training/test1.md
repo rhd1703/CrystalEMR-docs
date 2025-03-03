@@ -1,6 +1,5 @@
 # How to Use My App
 
-## Step 1: Open the App
 <div class="step-container">
   <div class="step-text">
     <p><strong>Step 1:</strong> Open the app from your home screen.</p>
@@ -11,9 +10,6 @@
   </div>
 </div>
 
----
-
-## Step 2: Login to Your Account
 <div class="step-container">
   <div class="step-image">
     <img src="https://dummyimage.com/600x400/" alt="Login Screen" data-md-zoomable>
@@ -25,9 +21,6 @@
   </div>
 </div>
 
----
-
-## Step 3: Navigate the Dashboard
 <div class="step-container">
   <div class="step-text">
     <p><strong>Step 3:</strong> Explore the dashboard.</p>
@@ -38,9 +31,6 @@
   </div>
 </div>
 
----
-
-## Step 4: Access Settings
 <div class="step-container">
   <div class="step-image">
     <img src="https://dummyimage.com/600x400/" alt="Settings" data-md-zoomable>
@@ -52,9 +42,6 @@
   </div>
 </div>
 
----
-
-## Step 5: Logout
 <div class="step-container">
   <div class="step-text">
     <p><strong>Step 5:</strong> Logout safely.</p>

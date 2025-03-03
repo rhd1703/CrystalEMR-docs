@@ -28,22 +28,22 @@
 -   Daily distance entire challenge
 
     ---
-    ![](summer-walking-challenge/entire_challenge_dist_km.png)
+    ![](https://dummyimage.com/600x400/)
 
 -   Daily distance post-challenge
 
     ---
-    ![](summer-walking-challenge/post_challange_dist_km.png)
+    ![](https://dummyimage.com/600x400/)
 
 -   Daily distance last month of challenge
 
     ---
-    ![](summer-walking-challenge/last_month_dist_km.png)
+    ![](https://dummyimage.com/600x400/)
 
 -   Daily step count last month of challenge
 
     ---
-    ![](summer-walking-challenge/last_month_step_count.png)
+    ![](https://dummyimage.com/600x400/)
 
 </div>
 

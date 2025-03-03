@@ -63,24 +63,10 @@ plugins:
   #     javascript_dir: js
 
 
-nav:
-  - Home: index.md
-  - about:
-    - Start here: about.md
-  - Training:
-    - Token Creation: Training/tokens.md
-    - TrueDocs: Training/truedocs.md
-  - Tags: tags.md
-           
-
-
-
-
-
 extra:
   version:
     provider: mike
-  generator: false
+  # generator: false
 
   social:
     - icon: fontawesome/brands/github 
@@ -122,8 +108,23 @@ markdown_extensions:
 
 extra_css:
   - assets/css/extra.css
+  - assets/css/style.css
 
 
 copyright: Copyright &copy; 2025 Crystal EMR
 
 
+nav:
+  - Home: index.md
+  - about:
+    - Start here: about.md
+  - Training:
+    - Appointments: Training/appointments.md
+    - Token Creation: Training/tokens.md
+    - TrueDocs: Training/truedocs.md
+    - Billing: Training/billing.md
+    - Test1: Training/test1.md
+    - Test2: Training/test2.md
+
+  - Tags: tags.md
+           
