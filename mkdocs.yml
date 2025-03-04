@@ -98,6 +98,7 @@ markdown_extensions:
       alternate_style: true  
   - toc:
       permalink: true
+      toc_depth: 2 # Set the depth of the TOC, for example, 2 will show h1 and h2 headers
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption 

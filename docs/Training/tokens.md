@@ -4,6 +4,7 @@ Follow these steps to Create Tokens.
 
 <div class="grid-container">
 
+
 <div class="grid-item">
 <b>Open the App</b>  
 Below is the home screen of Crystal EMR app 
@@ -22,6 +23,7 @@ Enter your username and password to log in.
 <img src="/assets/images/ppt_img/tokens_img/2_homescreen.png" alt="Enter Credentials">
 </div>
 
+
 <div class="grid-item">
 <b>Steps to create new token</b>  
 Press the "Login" button to proceed.
@@ -32,4 +34,6 @@ Press the "Login" button to proceed.
 </div>
 
 
-</div>
+</div> 
+
+
