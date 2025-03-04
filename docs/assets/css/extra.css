@@ -1,16 +1,32 @@
-/* .md-typeset img {
-    cursor: zoom-in;
+.md-typeset img {
     max-width: 100%;
     height: auto;
 }
 
-.md-typeset img:active {
-    cursor: zoom-out;
-    transform: scale(2);
-    transition: transform 0.2s ease-in-out;
-} */
 
-.md-typeset img {
-    max-width: 100%;
-    height: auto;
+.team-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+}
+
+.team-member h3 {
+    margin: 10px 0 5px;
+    font-size: 1.2em;
+}
+
+.team-member p {
+    font-size: 1em;
+    color: gray;
 }

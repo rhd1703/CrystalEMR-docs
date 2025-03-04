@@ -72,15 +72,18 @@ extra:
   generator: false
 
   social:
-    - icon: fontawesome/brands/github 
-      link: https://github.com/rhd1703
+    # - icon: fontawesome/brands/github 
+    #   link: https://github.com/rhd1703
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@crystal8383
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<rhd1703@gmail.com>
+      link: mailto:<info@crystalemr.com>
 
-# Repository
-repo_name: rhd1703/CrystalEMR-docs
-repo_url: https://github.com/rhd1703/CrystalEMR-docs
-edit_uri: ""
+
+# # Repository
+# repo_name: rhd1703/CrystalEMR-docs
+# repo_url: https://github.com/rhd1703/CrystalEMR-docs
+# edit_uri: ""
 
 
 markdown_extensions:
@@ -109,9 +112,9 @@ markdown_extensions:
   # - pymdownx.tasklist:
   #     clickable_checkbox: true      
 
-# extra_css:
-#   - assets/css/extra.css
-#   - assets/css/style.css
+extra_css:
+  - assets/css/extra.css
+  - assets/css/style.css
 
 
 copyright: Copyright &copy; 2025 Crystal EMR
@@ -119,22 +122,10 @@ copyright: Copyright &copy; 2025 Crystal EMR
 
 nav:
   - Home: index.md
-  - about:
-    - Start here: about.md
+  - About: about.md
+  - Contact: contact.md
+  - Team : team.md
   - Training:
-    - Appointments: Training/appointments.md
+    - Log-in Page: Training/login.md
     - Token Creation: Training/tokens.md
-    - TrueDocs: Training/truedocs.md
-    - Billing: Training/billing.md
-    - Test1: Training/test1.md
-    - Test2: Training/test2.md
-    - Test3: Training/test3.md
 
-  -  Practice:
-      - Start: practice1/index.md
-      - About-us: practice1/about.md
-      - contact: practice1/contact.md
-      - faq: practice1/faq.md
-      - features: practice1/features.md
-  - Tags: tags.md
-           
