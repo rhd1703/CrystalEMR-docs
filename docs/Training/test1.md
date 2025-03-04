@@ -1,54 +1,28 @@
-# How to Use My App
+# Mobile App User Manual
 
-<div class="step-container">
-  <div class="step-text">
-    <p><strong>Step 1:</strong> Open the app from your home screen.</p>
-    <p>Tap the app icon to launch it.</p>
-  </div>
-  <div class="step-image">
-    <img src="https://dummyimage.com/600x400/" alt="Open App" data-md-zoomable>
-  </div>
-</div>
+## Section 1: Tokens Screen
 
-<div class="step-container">
-  <div class="step-image">
-    <img src="https://dummyimage.com/600x400/" alt="Login Screen" data-md-zoomable>
-  </div>
-  <div class="step-text">
-    <p><strong>Step 2:</strong> Enter your credentials.</p>
-    <p>Type your email and password, then tap:</p>
-    <a href="#" class="btn">Login</a>
-  </div>
-</div>
+This section explains the Tokens screen of the app.
 
-<div class="step-container">
-  <div class="step-text">
-    <p><strong>Step 3:</strong> Explore the dashboard.</p>
-    <p>The dashboard shows your main options and recent activities.</p>
-  </div>
-  <div class="step-image">
-    <img src="https://dummyimage.com/600x400/" alt="Dashboard" data-md-zoomable>
-  </div>
-</div>
+### Viewing Tokens
+The Tokens screen shows the list of patients in the queue.
 
-<div class="step-container">
-  <div class="step-image">
-    <img src="https://dummyimage.com/600x400/" alt="Settings" data-md-zoomable>
-  </div>
-  <div class="step-text">
-    <p><strong>Step 4:</strong> Go to settings.</p>
-    <p>Tap the settings icon to update your preferences.</p>
-    <a href="#" class="btn">Open Settings</a>
-  </div>
-</div>
+![Tokens Screen](/assets/images/ppt_img/tokens_img/Tokens2.png)
 
-<div class="step-container">
-  <div class="step-text">
-    <p><strong>Step 5:</strong> Logout safely.</p>
-    <p>Tap the menu, then select:</p>
-    <a href="#" class="btn">Logout</a>
-  </div>
-  <div class="step-image">
-    <img src="https://dummyimage.com/600x400/" alt="Logout" data-md-zoomable>
-  </div>
-</div>
+- You can see all active tokens.
+- Tap on a token to view details.
+
+### Managing Tokens
+To manage a token:
+1. Select the token.
+2. Tap on "Move" to change its status.
+3. Use "Remove" to delete it from the queue.
+
+![Manage Tokens](/assets/images/ppt_img/tokens_img/Tokens2.png)
+
+> **Tip:** Use the search bar to quickly find a token.
+
+---
+
+## Section 2: [Another Feature]
+(Similar structure with images and descriptions)

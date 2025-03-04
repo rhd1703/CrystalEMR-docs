@@ -43,6 +43,7 @@
 .step-image img {
   max-width: 100%;
   border-radius: 5px;
+  cursor: zoom-in; /* Ensure images indicate zoom functionality */
 }
 
 /* Caption for images */
@@ -51,4 +52,9 @@
   font-size: 14px;
   color: #666;
   margin-top: 5px;
+}
+
+/* Ensure zooming doesn't break layout */
+.md-zoom img {
+    transition: transform 0.3s ease-in-out;
 }

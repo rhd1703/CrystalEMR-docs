@@ -1,10 +1,16 @@
-img {
+/* .md-typeset img {
+    cursor: zoom-in;
     max-width: 100%;
-    max-height: 80vh;  /* Prevents images from taking up the whole screen */
     height: auto;
-    display: block;
-    margin: auto;
-    object-fit: contain;
 }
 
+.md-typeset img:active {
+    cursor: zoom-out;
+    transform: scale(2);
+    transition: transform 0.2s ease-in-out;
+} */
 
+.md-typeset img {
+    max-width: 100%;
+    height: auto;
+}

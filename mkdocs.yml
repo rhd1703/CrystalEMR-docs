@@ -30,7 +30,7 @@ theme:
 
 
   features:
-    - navigation.instant
+    - navigation.instant # Optional, makes navigation faster
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
@@ -46,6 +46,8 @@ theme:
     - search.share
     - navigation.footer
     - content.tabs.link
+    - content.code.copy
+    - content.tooltips   # Optional, adds tooltips on hover
     - header.autohide
 
 
@@ -107,9 +109,9 @@ markdown_extensions:
   # - pymdownx.tasklist:
   #     clickable_checkbox: true      
 
-extra_css:
-  - assets/css/extra.css
-  - assets/css/style.css
+# extra_css:
+#   - assets/css/extra.css
+#   - assets/css/style.css
 
 
 copyright: Copyright &copy; 2025 Crystal EMR
@@ -126,6 +128,8 @@ nav:
     - Billing: Training/billing.md
     - Test1: Training/test1.md
     - Test2: Training/test2.md
+    - Test3: Training/test3.md
+
   -  Practice:
       - Start: practice1/index.md
       - About-us: practice1/about.md
