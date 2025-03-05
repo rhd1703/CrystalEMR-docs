@@ -1,4 +1,4 @@
-# About Crystal
+# About Crystal EMR
 
 Crystal was built with one goal in mind: **to make clinic management seamless and efficient**.
 

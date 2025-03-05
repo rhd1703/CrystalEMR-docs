@@ -10,7 +10,7 @@
 [Contact Us](contact.md)
 
 
-## Crystal Features
+## Crystal EMR Features
 
 ## 🚀 Queue Management
 - Assign token numbers & track patient flow
