@@ -10,7 +10,7 @@ Open the app by tapping on the icon on your home screen.Once the app is open.
 </div>
 
 <div class="grid-item">
-<img src="/assets/images/ppt_img/login_img/login_page1.png" alt="Open the App">
+<img src="../assets/images/ppt_img/login_img/login_page1.png" alt="Open the App">
 </div>
 
 <div class="grid-item">
@@ -19,7 +19,7 @@ Enter your username and password to log in.
 </div>
 
 <div class="grid-item">
-<img src="/assets/images/ppt_img/login_img/login_page2.png" alt="Enter Credentials">
+<img src="assets/images/ppt_img/login_img/login_page2.png" alt="Enter Credentials">
 </div>
 
 <div class="grid-item">
@@ -28,7 +28,7 @@ Press the "Login" button to proceed.
 </div>
 
 <div class="grid-item">
-<img src="/assets/images/ppt_img/login_img/login_page3.png" alt="Tap Login">
+<img src="assets/images/ppt_img/login_img/login_page3.png" alt="Tap Login">
 </div>
 
 
