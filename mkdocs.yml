@@ -76,10 +76,9 @@ extra:
     - icon: fontawesome/solid/paper-plane  # Email icon
       link: mailto:<info@crystalemr.com>
 
-# # Repository details (commented out)
-# repo_name: rhd1703/CrystalEMR-docs
-# repo_url: https://github.com/rhd1703/CrystalEMR-docs
-# edit_uri: ""
+site_name: Crystal EMR
+site_url: https://rhd1703.github.io/CrystalEMR-docs/
+base_url: /CrystalEMR-docs/
 
 markdown_extensions:  # List of Markdown extensions for enhanced formatting
   - attr_list  # Allows adding attributes to Markdown elements
