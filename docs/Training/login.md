@@ -11,7 +11,7 @@ Open the app by tapping on the icon on your home screen.Once the app is open.
 </div>
 
 <div class="grid-item">
-<img src="/crystalemr/docs/assets/images/ppt_img/login_img/login_page1.png" alt="Open the App">
+<img src="/CrystalEMR-docs/assets/images/ppt_img/login_img/login_page1.png" alt="Open the App">
 </div>
 
 <div class="grid-item">
