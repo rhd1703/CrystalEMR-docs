@@ -87,15 +87,6 @@ Displays branch name, today’s date, patient search, doctor selection, availabl
 
 <div class="grid-item">
 <b>Create New Appointment</b> <br>
-Before creating an appointment, ensure the correct branch, doctor, month, and date are selected.
- </div>
-<div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/appointment_img/apt_12.png" alt="appointment">
-</div>
-
-<div class="grid-item">
-<b>Create New Appointment</b> <br>
-Before creating an appointment, ensure the correct branch, doctor, month, and date are selected.
  </div>
 <div class="grid-item">
 <img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/appointment_img/apt_12.png" alt="appointment">
@@ -103,6 +94,7 @@ Before creating an appointment, ensure the correct branch, doctor, month, and da
 
 <div class="grid-item">
 <b></b> <br>
+Before creating an appointment, ensure the correct branch, doctor, month, and date are selected.
  </div>
 <div class="grid-item">
 <img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/appointment_img/apt_13.png" alt="appointment">
@@ -124,7 +116,7 @@ Search for an existing patient using their mobile number, Aadhaar number, first 
 </div>
 
 <div class="grid-item">
-<b>Create New Patient</b> <br>
+<b>Create New Patient (Patient Registration - on the fly)</b> <br>
 Enter the full name and mobile number. Avoid initials and special characters.
  </div>
 <div class="grid-item">
@@ -132,7 +124,7 @@ Enter the full name and mobile number. Avoid initials and special characters.
 </div>
 
 <div class="grid-item">
-<b></b> <br>
+<b>Send SMS/b> <br>
  </div>
 <div class="grid-item">
 <img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/appointment_img/apt_17.png" alt="appointment">
