@@ -121,4 +121,5 @@ nav:  # Defines the navigation structure
   - Training:  # Training section with subpages
     - Log-in Page: Training/login.md
     - Token Creation: Training/tokens.md
+    - Appointment App: Training/appointment.md
     - Youtube Videos: Training/youtubelink.md
