@@ -122,4 +122,7 @@ nav:  # Defines the navigation structure
     - Log-in Page: Training/login.md
     - Token Creation: Training/tokens.md
     - Appointment App: Training/appointment.md
+    - Billing Module: Training/billing.md
+    - Inventory Module: Training/inventory.md
+    - surgery Module: Training/surgery.md
     - Youtube Videos: Training/youtubelink.md
