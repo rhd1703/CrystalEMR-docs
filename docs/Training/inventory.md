@@ -6,7 +6,7 @@
 <b>Table of content</b> <br> 
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_1.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_1.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -15,7 +15,7 @@
 From the home screen, select the Menu icon. Then, select Material Transactions and choose the required date.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_2.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_2.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -24,7 +24,7 @@ From the home screen, select the Menu icon. Then, select Material Transactions a
 Click the ADD button and fill in the details. To add more records, click ADD again.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_3.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_3.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -33,7 +33,7 @@ Click the ADD button and fill in the details. To add more records, click ADD aga
 To consume inventory, click on a token, select MATERIALS, add the required material, and enter the details.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_4.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_4.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -42,7 +42,7 @@ To consume inventory, click on a token, select MATERIALS, add the required mater
 Click on a token, select BILLING, and in the items section, click MATERIALS to add consumed items to the bill.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_5.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_5.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -51,7 +51,7 @@ Click on a token, select BILLING, and in the items section, click MATERIALS to a
 Select Stock Summary from the menu to view stock details, including opening stock, inward stock, and closing stock.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_6.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_6.png" alt="inventory">
 </div>
 
 <div class="grid-container">
@@ -60,5 +60,5 @@ Select Stock Summary from the menu to view stock details, including opening stoc
 Click on Opening Stock, Inward, or Outward Stock to view respective stock entries and reorder requirements.
 </div>
 <div class="grid-item">
-<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/inventory_7.png" alt="inventory">
+<img src="https://rhd1703.github.io/CrystalEMR-docs/assets/images/ppt_img/inventory_img/Inventory_7.png" alt="inventory">
 </div>
