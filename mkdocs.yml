@@ -105,7 +105,10 @@ markdown_extensions:  # List of Markdown extensions for enhanced formatting
   - pymdownx.tasklist:  # Enables checkboxes in task lists
       custom_checkbox: true  # Allows custom checkbox styling
   # - pymdownx.tasklist:
-  #     clickable_checkbox: true  # Allows clicking checkboxes (commented out)
+  #     clickable_checkbox: true  # Allows clicking checkboxes (commented out) 
+  - attr_list
+  - md_in_html
+
 
 extra_css:  # Additional CSS files for customization
   - assets/css/extra.css
@@ -119,6 +122,7 @@ nav:  # Defines the navigation structure
   - Contact: contact.md  # Contact page
   - Team: team.md  # Team page
   - Training:  # Training section with subpages
+    - Training Topics: Training/topics.md
     - Log-in Page: Training/login.md
     - Token Creation: Training/tokens.md
     - Appointment App: Training/appointment.md
