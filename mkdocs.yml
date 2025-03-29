@@ -125,6 +125,7 @@ nav:  # Defines the navigation structure
     - Training Topics: Training/topics.md
     - Log-in Page: Training/login.md
     - Token Creation: Training/tokens.md
+    - TrueDocs: Training/truedocs.md
     - Appointment App: Training/appointment.md
     - Billing Module: Training/billing.md
     - Inventory Module: Training/inventory.md
