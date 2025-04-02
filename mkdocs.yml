@@ -131,4 +131,11 @@ nav:  # Defines the navigation structure
     - Inventory Module: Training/inventory.md
     - Surgery Module: Training/surgery.md
     - Youtube Videos: Training/youtubelink.md
+  - Know Your CrystalEMR:
+    - Knowledge Topics: know/topics.md
+    - 001: know/001.md
+    - 002: know/002.md
+    - 003: know/003.md
+    - 004: know/004.md
+    - 005: know/005.md  
   - F.A.Q.: faq.md
