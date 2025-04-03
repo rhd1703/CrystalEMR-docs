@@ -174,7 +174,6 @@ nav:  # Defines the navigation structure
     - 40.Search for process name (v01): know/40.md
     - 41. Add custom dropdown values in the fields(v01): know/41.md
     - 42. Add Patient to Surgery List(v03): know/42.md
-    - 42a. Add Patient to Surgery List (process based)(v01): know/42.md
     - 43. How to add reference to a patient(v02): know/43.md
     - 44. Print the attachments (v01): know/44.md
     - 45.  Miscellaneous- Demographic info(v02): know/45.md
@@ -190,10 +189,6 @@ nav:  # Defines the navigation structure
     - 56.Search patient's old token (v01) : know/56.md
     - 57.Create a new token (v03) : know/57.md
     - 58. How to read tokens page (v01) : know/58.md
-    - 58. How to read tokens page (v01): know/58.md
-    - 58. How to read tokens page (v01)_2 : know/58.md
-    - 58. How to read tokens page (v01)_3 : know/58.md
-    - 58. How to read tokens page (v01)_4 : know/58.md
     - 59.Process Page - Extended Menu (v01) : know/59.md
     - 60. Add a TrueDocs (v02) : know/60.md
     - 61. TrueDocs - Create a Default (v03) : know/61.md
