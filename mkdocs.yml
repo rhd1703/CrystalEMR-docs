@@ -133,7 +133,6 @@ nav:  # Defines the navigation structure
     - Youtube Videos: Training/youtubelink.md
   - Know Your CrystalEMR:
     - Knowledge Topics: know/topics.md 
-
     - 01. Navigation Window (v07): know/1.md
     - 02. Medicine Prescription (v05): know/2.md
     - 03. Entry fields in Processes (v02): know/3.md
