@@ -78,6 +78,8 @@ extra:
     - icon: fontawesome/solid/paper-plane  # Email icon
       link: mailto:<info@crystalemr.com>
 
+  copyright: Copyright &copy; 2025 Crystal EMR , Maintainer- Rishabh Desai # Footer copyright notice
+
 markdown_extensions:  # List of Markdown extensions for enhanced formatting
   - attr_list  # Allows adding attributes to Markdown elements
   - pymdownx.emoji:  # Enables emoji support
@@ -112,7 +114,7 @@ extra_css:  # Additional CSS files for customization
   - assets/css/extra.css
   - assets/css/style.css
 
-copyright: Copyright &copy; 2025 Crystal EMR , Maintainer- Rishabh Desai # Footer copyright notice
+
 
 nav:  # Defines the navigation structure
   - Home: index.md  # Home page
