@@ -41,6 +41,17 @@ Below are some common questions and answers regarding CrystalEMR.
 ??? question "What are the minimum system requirements for using CrystalEMR?"
     CrystalEMR works on modern web browsers such as Chrome, Firefox, and Edge. For the best experience, we recommend using Google Chrome on a device with at least 4GB of RAM.
 
+
+## Token Creation
+
+??? question "What are toknes? Why are they required"
+    Tokens are basically arrival time stamps and patients are arrived into the OPD by creating a token each time they come for OPD. 
+    They are required to keep track of arrival time and the time spent by patient in the OPD/OT on that day. It’s a very essential OPD tool for patient management.
+    Note: This is often confused with **Patient ID/MRD Number**. 
+    Please note Patient ID is constant once generated.
+    **Token number is different** for each visit of patient, as token is generate per visit.
+
+
 ---
 
 For more details, visit our [Support Page](https://crystalemr.freshdesk.com).
