@@ -52,6 +52,7 @@ theme:
     - content.tooltips  # Enables tooltips when hovering over certain elements
     - header.autohide  # Automatically hides the header when scrolling down
 
+
 plugins:
   - search  # Enables search functionality
   - tags  # Enables tag-based filtering and navigation
@@ -66,6 +67,7 @@ plugins:
   #     javascript_dir: js
 
 copyright: Copyright &copy; 2025 Crystal EMR , Maintainer- Rishabh Desai # Footer copyright notice
+
 
 extra:
   version:
