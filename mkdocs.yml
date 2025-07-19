@@ -65,6 +65,8 @@ plugins:
   #     css_dir: css
   #     javascript_dir: js
 
+copyright: Copyright &copy; 2025 Crystal EMR , Maintainer- Rishabh Desai # Footer copyright notice
+
 extra:
   version:
     provider: mike  # Uses Mike for version control
@@ -78,7 +80,7 @@ extra:
     - icon: fontawesome/solid/paper-plane  # Email icon
       link: mailto:<info@crystalemr.com>
 
-  copyright: Copyright &copy; 2025 Crystal EMR , Maintainer- Rishabh Desai # Footer copyright notice
+
 
 markdown_extensions:  # List of Markdown extensions for enhanced formatting
   - attr_list  # Allows adding attributes to Markdown elements
