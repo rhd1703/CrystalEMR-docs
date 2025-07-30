@@ -51,6 +51,37 @@ Below are some common questions and answers regarding CrystalEMR.
     Please note Patient ID is constant once generated.
     **Token number is different** for each visit of patient, as token is generate per visit.
 
+??? question "How do I Create a blank token and assign patient to a blank token?"
+    1. Creating a Blank Token : 
+
+        - On home-screen of Crystal App, press on **NEW TOKEN** button.\n
+        - A pop-up window will appear, press on **YES** to create new token.\n
+        - Blank token will be visible on home screen.\n
+    
+    2. Assigning Patient to Blank Token:
+
+        - Select newly created blank token
+        - 'Search Contact' window will appear
+        - For existing patient, search the name and select the patient.
+        - For new Patient press on " + " symbol on top right, enter Name and mobile number.
+        - Save the details.
+
+??? question "What is check in and check out?"
+        - Check-in Time   = Time of token generated
+        - Check-out Time= Time of patient leaving the clinic
+
+??? question "Once Token is made, can we cancel it? and how to hide it from the home screen? will it be counted towards total token count?"
+        Once the token is made, we cannot delete it.
+
+        Tokens cannot be Cancelled. 
+
+        In case of assigned tokens, just Checkout the token. 
+
+        In case of blank token, nothing can be done. In both case, apply filter "Active tokens only" 
+        to hide blank tokens and check-out tokens.. 
+
+        Yes, in unfiltered view, that token will be counted.
+
 
 ---
 
