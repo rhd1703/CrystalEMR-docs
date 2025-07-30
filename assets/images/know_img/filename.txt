@@ -1,0 +1,100 @@
+01. Navigation Window (v07).png
+02. Medicine Prescription (v05).png
+03. Entry fields in Processes (v02).png
+04. Process Screen buttons (v02).png
+06. infographic-how to add counseling details.png
+07. infographic-how to send SMS revised.png
+08. Background colors in process fields (v03).png
+09. Token Details (v09).png
+100. Hide checkout tokens and blank tokens (v02) .png
+101. Attach pdf and image files from downloaded folder(v01) .png
+11. Processes - copy paste hide delete (v02).png
+12. Settings Preferences in side Menu (v01).png
+13. Extended Menu - Token view  (V01).png
+14. Billing Details (v01).png
+15. Billing Details - receipt generation (v01).png
+16. Merge Duplicate Entries (v02).png
+17. Install APK file in mobile or Tablet (v08).png
+18. Widget Creation process (v01).png
+19. Navigation Window buttons (v02).png
+20. Token locking for data integrity (v02).png
+21. Print past visit reports (v01).png
+22. Change Password (v01).png
+23. Token Checkout (v01) .png
+24. quick checkout for shared devices (v01).png
+25. How to print Reference Notes (v01).png
+26. How to PIN a process (v02).png
+27. Filter on token view (V01).png
+28. Reload Masters (v01).png
+29. Buttons with Long-press functionality (V02).png
+30. Copy process value from old to new token (v02).png
+31. Various Ways to Search a Patient (v03).png
+32. Enter data in _medicine presc_ in consultation (v02).png
+33. Surgery details - view, reschedule, cancel(v02).png
+34. Diagrams and Audio recording (V01) .png
+35. Generate discharge summary(v01).png
+36.copy old prescription details to new token prescription (V01).png
+37. Events- How to create (v02).png
+38. Tasks Creation using Follow-up Field (v04).png
+39. Refer- cash and non-cash collection (v03).png
+40.Search for process name (v01).png
+41. Add custom dropdown values in the fields(v01).png
+42. Add Patient to Surgery List(v03).png
+42a. Add Patient to Surgery List (process based)(v01).png
+43. How to add reference to a patient(v02).png
+44. Print the attachments (v01).png
+45.  Miscellaneous- Demographic info(v02).png
+46. Billing for Patient with Medi-claim (v01).png
+47. How to capture a photo & attach a file (v01).png
+48. Create Defaults in Process page (v03).png
+49.Access last-visit-value in todays token (v04).png
+50. Add Material & Consume Material (v01) .png
+51. Create Contacts-group for family members(v01) .png
+52. Search Reference without creating a Token(v02) .png
+53. Prescribe same Medicine with different doses (v01) .png
+54. How to see Important Events of a Patient (v03) .png
+56.Search patient's old token (v01) .png
+57.Create a new token (v03) .png
+58. How to read tokens page (v01) .png
+58. How to read tokens page (v01).png
+58. How to read tokens page (v01)_2 .png
+58. How to read tokens page (v01)_3 .png
+58. How to read tokens page (v01)_4 .png
+59.Process Page - Extended Menu (v01) .png
+60. Add a TrueDocs (v02) .png
+61. TrueDocs - Create a Default (v03) .png
+62. TrueDocs - Delete,Print & make blank (v01) .png
+63. TrueDocs - icon details (v05) .png
+64. TrueDocs - use digital pen to enter value (v01) .png
+65. TrueDocs -Saving a TrueDocs (v01) .png
+66. TrueDocs -Transfer a TrueDocs (v01)  .png
+67. TrueDocs -Delete a TrueDoc (v01) .png
+68. TrueDocs- Check previous visit values (v01) .png
+69. TrueDocs - Various menu details (v01) .png
+70. TrueDocs - WhatsApp a TrueDoc (v01) .png
+72.Stock Summary(v01) .png
+73.Cast Patients Demographic Info(v01) .png
+74.Caller ID Functionality(v03) .png
+75.Timeline of a patient(v02) .png
+76.TrueDocs - Font reduction and curtailment indication (v01) .png
+79. Give appointments from Navigation window (v02) .png
+80. Tasks Creation using Task Button (v01) .png
+81. Find Last edited Appointment status by user (v01) .png
+82.TrueDocs - Capture Image (v03) .png
+83.TrueDocs - Record Audio (v02) .png
+84.TrueDocs - Print_hide Background in print (v02) .png
+85. Dilation process - Start and stop (v01) .png
+86.TrueDocs - add hints (v01) .png
+87. DashBoard (v02) .png
+88. TrueDocs - Buttons with Long-press functionality (V01) .png
+89. TrueDocs - print other reports (V01) .png
+90. TrueDocs - Medicine Prescription (v01) .png
+91. TrueDocs - Tasks Creation (v01) .png
+93. TrueDocs - Medicine Tapering Instructions (v01) .png
+94. Adhoc payment (v01) .png
+95. Send WhatsApp (v02) .png
+96. Linked client- from Appointment-app to quick-review page (v02) .png
+97. TrueDocs - Header level buttons .png
+98.TrueDocs - Search for Stage Name & add a stage(v01) .png
+99. Appointment App - Various Appointment states (v01) .png
+filename.txt
